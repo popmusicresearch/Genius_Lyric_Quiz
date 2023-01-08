@@ -1,0 +1,77 @@
+/* Get a fancy font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+
+body {
+  background-color: #edf5fe;
+  color: #0a0d17; /* text color */
+}
+
+/* Change header text to imported font */
+
+h1 {
+  color: #063970;
+  font-family: 'Judson', sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Judson', sans-serif;
+}
+
+h6 {
+  font-family: 'Judson', sans-serif;
+}
+
+h2 {
+  font-family: 'Quando', sans-serif;
+  color: #066e70;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: 'Quando', sans-serif;
+    font-style: italic;
+}
+
+hr {
+  border-top: 1px solid #0a0d17;
+}
+
+a[href*="//"] {
+color: #063970;
+font-weight: bold
+}
+                                
+a[href^="mailto:"] {
+color: #063970;
+font-weight: bold
+}
+
+input[type='radio']:after {
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  top: -1px;
+  position: relative;
+  background-color: #f5f3ef;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 4px solid #063970;
+}
+
+input[type='radio']:checked:after {
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  top: -1px;
+  position: relative;
+  background-color: #063970;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 4px solid #063970;
+}
+
+
+

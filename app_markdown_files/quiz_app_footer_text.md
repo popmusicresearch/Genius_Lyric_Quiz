@@ -1,0 +1,1 @@
+This Shiny app was built by **Craig Hamilton**. You can visit [www.popmusicresearch.org](https://www.popmusicresearch.org) to see more of his work, or [follow him on Twitter](https://twitter.com/craigfots). 
